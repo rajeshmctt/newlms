@@ -1,0 +1,9 @@
+*
+!users/
+!faculties/
+!programs/
+!electives/
+!assignments/
+!resources/
+!recordings/
+!.gitignore
